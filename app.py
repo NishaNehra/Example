@@ -1,0 +1,2 @@
+str = "Nopaperforms"
+print(str)
